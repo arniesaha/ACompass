@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AudioCompass - Assignment</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    
+        <string name="testsong_20_sec">http://www.virginmegastore.me/Library/Music/CD_001214/Tracks/Track1.mp3</string>
+    <string name="crash_toast_text">App has crashed need to send report to dev!</string>
+    
+    <string name="rateus">Like the app?\n  Win a $10 Amazon Gift card when you write a nice positive review about the app and rate it 5 stars </string>
+    <string name="later">Rate 5 stars Later</string>
+    <string name="gotogps">Rate 5 stars Now</string>
+    
+    <string name="fav">Favorites\n</string>
+    <string name="rate">Rate App \nWin a $10 Amazon Gift card when you write a nice positive review about the app and rate it 5 stars </string>
+    <string name="preferences">Preferences</string>
+    <string name="exitmessage">"Are you sure you want to exit?\nDon't forget to come back and check tomorrow's daily fresh photos!"</string>
+    
+    <string name="crop">Crop</string>
+    <string name="setwallpaper">Set As Wallpaper</string>
+    <string name="setother">Set Other</string>
+    <string name="rotate">Rotate</string>
+    <string name="zoom">Zoom</string>
+    <string name="croppedImageDesc">The cropped image.</string>
+    <string name="favButtonDesc">The fav button.</string>
+
+    <string-array name="showGuidelinesArray">
+        <item>Off</item>
+        <item>On Touch</item>
+        <item>On</item>
+    </string-array>
+    
+
+     
+      <string
+        name="feedbacktitle">Enter feedback details to send to the developer:
+    </string>
+    <string
+        name="feedbackname">Your Name</string>
+    <string
+        name="feedbackemail">Your Email</string>
+    <string
+        name="feedbackbody">Feedback Details</string>
+    <string
+        name="feedbackresponse">Would you like an email response?</string>
+    <string
+        name="feedbackbutton">Send Feedback</string>
+    <string
+        name="feedbacktype">Enter feedback type</string>
+
+    <string
+        name="feedbacktype1">Praise</string>
+    <string
+        name="feedbacktype2">Gripe</string>
+    <string
+        name="feedbacktype3">Suggestion</string>
+    <string
+        name="feedbacktype4">Bug</string>
+    <string
+        name="feedbackmessagebody_format">To: The %1$s Department\n\n %2$s\n\n %3$s (%4$s) - %5$s
+    </string>
+    <string
+        name="feedbackmessagebody_responseyes">Requires a response</string>
+    <string
+        name="feedbackmessagebody_responseno">Does not require a response</string>
+    <string
+        name="feedbackmessagesubject_format">Application Feedback (%1$s)</string>
+    
+<string name="search_title">Search Title</string>
+    <string name="save_text">Save</string>
+    <string name="wallpaper_text">Set as Wallpaper</string>
+    <string name="edit_set">Edit</string>
+    <string name="share_text">Share</string>
+    <string name="menu_item_clear_memory_cache">Clear memory cache</string>
+    <string name="menu_item_clear_disc_cache">Clear disc cache</string>
+    <string name="menu_report_feedback">Report/Feedback</string>
+    <string name="descr_image">Image</string>
+
+</resources>
