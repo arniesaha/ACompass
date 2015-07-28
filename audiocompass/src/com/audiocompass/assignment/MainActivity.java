@@ -99,24 +99,7 @@ public class MainActivity extends BaseActivity implements ActionBar.TabListener{
 		
 		else
 	    {
-	          int backStackEntryCount = getSupportFragmentManager().getBackStackEntryCount();
-	    if(backStackEntryCount == 0){
-	         new AlertDialog.Builder(this)
-	           .setMessage(R.string.exitmessage)
-	           .setCancelable(false)
-	           .setPositiveButton("Yes", new DialogInterface.OnClickListener() {
-	               public void onClick(DialogInterface dialog, int id) {
-	                    MainActivity.this.finish();
-	               }
-	           })
-	           .setNegativeButton("No", null)
-	           .show();;   // write your code to switch between fragments.
-	    }
-	    else{
-	        super.onBackPressed();
-	    }
-
-
+	          super.onBackPressed();   
 	    }
 	}
 	@Override
